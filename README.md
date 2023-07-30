@@ -1,4 +1,4 @@
 # Weather-App
 -React App
 -I used useState(React-Hook)
--I used Async & Await to access the data.
+, Async & Await to fetch the data.
